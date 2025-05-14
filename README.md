@@ -1,5 +1,5 @@
 <h1>Project Name</h1>
-<h2>Introduction to Github Issues</h2>
+Introduction to Github Issues
 
 
 <h2>Project Description</h2>
@@ -18,6 +18,7 @@
 <p>GitHub Issues - This is the suggested tool.</p>
 
 <h2>Usage</h2>
+<p>Learn how to use GitHub Issues for bug reports and defining work for pull requests with these simple steps.</p>
 
 <h3>Create a Bug Report Using an Issue</h3>
 <ol>
@@ -63,6 +64,7 @@
 
 
 <h2>Demo</h2>
+<p>See a quick demonstration of creating a basic GitHub Issue.</p>
 
 <h3>Create a simple issue</h3>
 
