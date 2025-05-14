@@ -7,11 +7,11 @@
 
 
 <h2>Motivation</h2>
-<p>You have a github project and you have a bug or you want to create a scope of work for a pull request to be later referenced. How do you do it within the same GitHub project?</p>
+<p>You have a GitHub project and you have a bug or you want to create a scope of work for a pull request to be later referenced. How do you do it within the same GitHub project?</p>
 
 
 <h2>Installation</h2>
-<p>No installation is required; it's part of the GitHub dashboard.</p>
+<p>No setup required. GitHub Issues is built into all GitHub repositories.</p>
 
 
 <h2>Technologies Used</h2>
@@ -70,7 +70,7 @@
 <img src='./figs/new-issue.png' alt='Screenshot of the "New issue" button on the GitHub Issues page.'/>
 
 <p>Add a title and description as shown in the image.</p>
-<img src='./figs/new-issue.png' alt='Screenshot showing the title and description fields when creating a new GitHub Issue.'/>
+<img src='./figs/issue1-title-and-description.png' alt='Screenshot showing the title and description fields when creating a new GitHub Issue.'/>
 
 <p>Click on the "Create" button as shown in the image.</p>
 <img src='./figs/create-issue1-by-click.png' alt='Screenshot highlighting the "Create issue" button on the new GitHub Issue page.'/>
@@ -89,5 +89,5 @@
 
 <h2>References</h2>
 <ul>
-    <li><a href='https://github.com/features/issues'>official docs</a></li>
+    <li><a href='https://github.com/features/issues'>Official Docs</a></li>
 </ul>
