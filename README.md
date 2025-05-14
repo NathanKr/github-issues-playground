@@ -1,23 +1,21 @@
 <h1>Project Name</h1>
-Introduction to Github Issues
-
+<h2>Introduction to Github Issues</h2>
 
 
 <h2>Project Description</h2>
-....
+<p>This project serves as a straightforward introduction to utilizing GitHub Issues for effective project management within the GitHub platform. It guides users through the process of creating issues for bug reporting and for defining the scope of work for pull requests, emphasizing clear communication and collaboration.</p>
+
 
 <h2>Motivation</h2>
-You have a github project and you have a bug or you want to create a scope of work for pull request to be later referenced to. How to do it in the same github project ??
-
+<p>You have a github project and you have a bug or you want to create a scope of work for a pull request to be later referenced. How do you do it within the same GitHub project?</p>
 
 
 <h2>Installation</h2>
-no installation is required , its part of github dashboard
+<p>No installation is required; it's part of the GitHub dashboard.</p>
 
 
 <h2>Technologies Used</h2>
-Github Issues - This is the suggested tool 
-
+<p>GitHub Issues - This is the suggested tool.</p>
 
 <h2>Usage</h2>
 
@@ -63,17 +61,33 @@ Github Issues - This is the suggested tool
   <li><strong>Reference the Issue in Your Pull Request:</strong> When creating a PR for this scope, include <code>#IssueNumber</code> in the description (e.g., "Implements user profile page as described in #42").</li>
 </ol>
 
+
 <h2>Demo</h2>
-....
+
+<h3>Create a simple issue</h3>
+
+<p>Create a new issue by clicking on the "New issue" button.</p>
+<img src='./figs/new-issue.png' alt='Screenshot of the "New issue" button on the GitHub Issues page.'/>
+
+<p>Add a title and description as shown in the image.</p>
+<img src='./figs/new-issue.png' alt='Screenshot showing the title and description fields when creating a new GitHub Issue.'/>
+
+<p>Click on the "Create" button as shown in the image.</p>
+<img src='./figs/create-issue1-by-click.png' alt='Screenshot highlighting the "Create issue" button on the new GitHub Issue page.'/>
+
+<p>Issue1 is created as shown in the image.</p>
+<img src='./figs/issue1-created.png' alt='Screenshot displaying a newly created GitHub Issue with a title and description.'/>
+
+<p>This issue can be a bug report or a SOW that you can reference later in a PR.</p>
+
 
 <h2>Points of Interest</h2>
 <ul>
-    <li>React, Next.js, Node.js, and Vite use GitHub Issues to track bugs and feature discussions, and pull requests (PRs) frequently reference these issues to maintain transparency and streamline collaboration</li>
-   
+    <li>React, Next.js, Node.js, and Vite use GitHub Issues to track bugs and feature discussions, and pull requests (PRs) frequently reference these issues to maintain transparency and streamline collaboration.</li>
 </ul>
+
 
 <h2>References</h2>
 <ul>
     <li><a href='https://github.com/features/issues'>official docs</a></li>
 </ul>
-
